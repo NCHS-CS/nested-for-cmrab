@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "nested-for-cmrab_b029bdf1"
+        },
+        {
+            "type": "java",
+            "name": "Mystery",
+            "request": "launch",
+            "mainClass": "Mystery",
+            "projectName": "nested-for-cmrab_b029bdf1"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
